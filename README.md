@@ -10,8 +10,6 @@ This repository has model inherited from (https://arxiv.org/abs/2312.01725)
 ![teaser](assets/teaser.png)&nbsp;
 
 
-```
-
 ## Citation
 Credited to:
 ```
